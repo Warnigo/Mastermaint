@@ -1,4 +1,4 @@
-# welocome to My Mastermaint
+# Welocome to My Mastermaint
 
 ## Description
 TODO - How have you solved the problem?	Mastermind is a game composed of 8 pieces of different colors.
